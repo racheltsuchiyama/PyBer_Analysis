@@ -17,7 +17,7 @@ Jupyter Notebook 6.3.0
 
 ## Results
 
-I compared the ride-sharing data between urban, suburban, and rural city types and summarized the results in the table below.
+I compared the ride-sharing data between urban, suburban, and rural city types:
 
 ### Total Rides
 
