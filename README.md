@@ -1,7 +1,8 @@
 # PyBer_Analysis
 ## Project Overview
 
-The purpose of this project was to analyse data to help improve the accessibility and affordability of the ride-sharing app PyBer. I assessed the fares, number of drivers, and number of riders in the urban, suburban, and rural cities.
+The purpose of this project was to analyse data to help improve the accessibility and affordability of the ride-sharing app PyBer. I compared the fares, number of drivers, and number of riders in the urban, suburban, and rural cities. With this data, I was able to assess the disparities between the city types and determine ways to minimize these disparities.
+
 
 ## Resources
 ### Data
