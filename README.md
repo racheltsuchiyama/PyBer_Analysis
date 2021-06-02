@@ -23,7 +23,7 @@ I compared the ride-sharing data between urban, suburban, and rural city types:
 
 ![Fig6](https://user-images.githubusercontent.com/83552696/120411904-7847e900-c30a-11eb-8453-ea756da0bd8d.png)
 
-Urban cities had the highest number of total rides while rural cities had the lowest number of total rides. Suburban cities had 500 more rides than rural cities, but still much less than urban cities. However, urban cities had a slight advantage because the majority of the city types were urban and only a small number of the cities were rural.
+Urban cities had the highest number of total rides while rural cities had the lowest number of total rides. Suburban cities had 500 more rides than rural cities, but still had a much lower number of rides than urban cities. However, urban cities had a slight advantage because the majority of the city types were urban and only a small number of the cities were rural.
 
 
 ### Total Drivers
@@ -32,7 +32,7 @@ The number of drivers was much higher in urban cities when compared to suburban 
 
 ![Fig7](https://user-images.githubusercontent.com/83552696/120411921-7ed66080-c30a-11eb-9ae8-40fe226762ce.png)
 
-However, due to the higher number of urban cities it may be more helpful to examine the box and whisker plots for the city types:
+However, due to the higher number of urban cities it was more helpful to examine the box and whisker plots for the city types:
 
 ![Fig4](https://user-images.githubusercontent.com/83552696/120423926-43df2780-c320-11eb-8970-7d89080fb6be.png)
 
