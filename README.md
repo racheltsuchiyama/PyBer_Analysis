@@ -41,7 +41,7 @@ The number of drivers for urban cities varied drastically, while the number of d
 
 ### Total Fares
 
-As shown in the table below, the urban cities had the highest total fares. However, the urban cities had the highest driver and rides count, so this conclusion was expected. It was more illuminating to insepct the box and whisker plot:
+As shown in the table below, the urban cities had the highest total fares. However, the urban cities had the highest driver and rides count, so this conclusion was expected. It was more illuminating to inspect the box and whisker plot:
 
 ![Fig3](https://user-images.githubusercontent.com/83552696/120424490-5148e180-c321-11eb-9f81-edbecd9aa703.png)
 
@@ -53,7 +53,7 @@ The total rides, total drivers, and total fares for each city type were used to 
 
 <img width="580" alt="Screen Shot 2021-06-01 at 5 48 48 PM" src="https://user-images.githubusercontent.com/83552696/120407292-b42a8080-c301-11eb-8629-17fad52216be.png">
 
-Rural cities had the highest average fare per rider and per driver. Although urban cities had the highest number of total rides, total drivers, and total fares, they had the lowest fares per ride and driver. The average fare per driver of rural cities was much higher than the average of urban cities.
+Rural cities had the highest average fare per rider and per driver. Although urban cities had the highest number of total rides, total drivers, and total fares, they had the lowest fares per ride and driver. The largest disparity was between the average fare per driver of rural cities and of urban cities. The differences between the average fare per rider of the city types was not as drastic.
 
 ### Total Fare by City Type
 
